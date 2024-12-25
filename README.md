@@ -1,2 +1,2 @@
 # FrontEnd-Projects
-"A collection of front-end web development projects, showcasing responsive designs, UI components, and interactive features built using HTML, CSS, JavaScript, and frameworks like React. This repository highlights my skills in creating user-friendly, visually appealing web applications and dynamic user interfaces."
+"A collection of frontend projects 🎨 built using React ⚛️, HTML5 🌐, CSS3 🎨, and JavaScript 📜. These projects focus on creating responsive, user-friendly interfaces with modern web design principles and interactive elements ✨🔲."
